@@ -15,33 +15,48 @@ Any requests for modifications to this licensed must be reviewed and approved by
 
 ## 1. Common Definitions
 
-As used herein, **"this License"** or **"the License"** refers to version 1 of the Automation Mojo - Dual License - Software Services
+### 1.1 "this License or the License"
+As used herein, **this License** or **the License** refers to version 1 of the Automation Mojo - Dual License - Software Services
 Agency License
 
-The term **"Provider"**, refers to Automation Mojo LLC..
+### 1.2 "Provider"
+The term **Provider**, refers to Automation Mojo LLC..
 
-**Agreement** means the combined terms of *the License* and the *Order Form* that is completed forming an agreed upon class of service between *Provider* and the *Customer* 
+### 1.3 "The Software"
+The term **The Software** refers to one or more software products, all under a common license and as specified on an *Order Form*, that are provided by *Provider* to *Customer* the format(Object Code or Source Code) of such being specified on the *Order Form*
 
-A **"Dual License"** is a software license that offers the use of software to different classes of consumers under two distinct
-arrangement of terms.  For this *License*, specific consumers are offered a license to utilize the *Software* for free, if they
-meet specific criteria and are willing to forego warranties of service.  Customers who do not qualify for the *Free* service or who
-require warranties of service must use an *Order Form* to establish a class of service and pay a subscription fee in order to maintain
-rights of Use under this agreement.  
+### 1.4 "Services"
+Means collectively, support services and professional services as specified by the terms of this *License* or on the completed *Order Form*
 
-**"Customer"** refers to the individual, party or company that obtains a license to use "The Software" and "Services" offered by *Provider*.
+#### 1.4.1 "Professional Services"
+**Professional Services** means any professional services related to Software such as installation, implementation, customization, configuration, administration, consulting, or training. *Professional Services* does not include Support Services.
 
-**"Party"** refers to either the *Customer* or *Provider* as appropriate.
+#### 1.4.2 "Support Services"
+**Support Services** means services related to maintenance and support in connection with *The Software* as specified by an *Order Form*.
 
+### 1.5 "Agreement"
+**Agreement** means the combined terms of *the License* and the *Order Form* that is completed forming an agreed upon set of the *Provider's* software products all presented under the same license and a defined *Class of Service* which details the specific services and associated terms that will exist between the *Provider* and the *Customer* 
+
+### 1.6 "Dual License"
+A **Dual License** is a software license that offers the use of *The Software* to customers falling into two distinct groups of terms *Free Use* and *Paid Use*.  For this *License*, specific consumers are offered a license to utilize the *Software* for free, if they meet specific criteria and are willing to forego warranties of service.  Customers who do not qualify for the *Free Use* license or who require warranties of service must use an *Order Form* to establish class of service under the *Paid Use* terms of services.
+
+### 1.7 "Customer"
+**Customer** refers to the individual, party or company that obtains a license to use "The Software" and "Services" offered by *Provider*.
+
+### 1.8 "Party"
+**Party** refers to either the *Customer* or *Provider* as appropriate.
+
+### 1.9 "Parties"
 **"Parties"** refers to the *Customer* and *Provider*
 
-**"Order Form"** refers to a document that explicitly defines the nature of the agreed upon *"Class of Service"* that is being agreed upon between *Provider* and the *Customer* with respect to the use of a specific *Software Product(s)* offered by the *Service Agency* and accompanying services which are  detailed on the *Order Form*.  The *Order Form* also specifies the timeframes, compensation, and specific services that are being agreed upon between the *Parties*. 
-
-**"Statement of Work"** refers to a document that explicitly defines Professional Services and Deliverables that are to be provided to the *Customer* by *Provider*. 
+### 1.10 "Order Form"
+**"Order Form"** refers to a document that explicitly defines the nature of the agreed upon *Class of Service* that is being agreed upon between *Provider* and the *Customer* with respect to the use of a specific *Software Product(s)* offered by the *Service Agency* and accompanying services which are  detailed on the *Order Form*.  The *Order Form* also specifies the timeframes, compensation, and specific services that are being agreed upon between the *Parties*. 
 
 ## 2. Preamble
 
-The purpose of this *License* is to establish a general framework by which terms of service can be establish for the use of *"The Software"*.  Under this *License*, rights to Use *"The Software"* are issued based on a *Class of Service* model.  The *Class of Service* model allows a software *Provider* to make software solutions available on a trial basis and to specific qualifying entities for free while at the same time collecting fees from organizations wishing to use a software solution for commercial use.  The ability to register customers and to charge a subscription fee are a critical
-component of funding software projects and ensuring thier ongoing maintenance and development.
+The purpose of this *License* is to establish a general framework by which terms of service can be establish for the use of *"The Software"*.  Under this *License*, rights to Use *"The Software"* are issued based on a *Class of Service* model.  The *Class of Service* model allows a software *Provider* to make software solutions available on a trial basis and to specific qualifying entities for free while at the same time collecting fees from organizations wishing to use a software solution for regular use.
+
+This *License* requires all *Customers* that wish to use *The Software* to register thier terms of Use by completing an *Order Form*.  The ability to register *Customers* and to charge subscription fees for the use of *The Software* and services are a critical component of the funding, development and ongoing maintenance of software projects.
 
 This *License* offers two classes of services *Free Use* and *Paid Use*. *Customers* that intend to use *The Software* obtain rights to use this software by using an *"Order Form"* to establish a "Class of Service" agreement with *Provider*.  The combinded terms of this license and the "Order Form" work together to establish the full terms of the agreement between *Provider* and the *Customer*.  All *Customers* wishing to obtain the rights to Use *The Software* must complete the process of submitting an appropriate 'Order Form' through the Automation Mojo website.
 
@@ -56,7 +71,7 @@ The current criteria to quality for the *Free Use* class of service is as follow
 * Non-commercial and Non-Governmental entities
 * Commercial entities with less than 10 people and that do not have more than 1 million in gross sales
 
-All other entities must obtain a license under the "Paid Use" service class.  The free use service class does not include customer support services.  If you want customer support services, you will need to switch to the "Paid Use" service class license.
+All other entities must obtain a license under the *Paid Use* service class.  The *Free Use* service class does not include customer support services.  If specific quality of support services are required, *Customer* must switch to the "Paid Use" license in order to enter into a adequate class of service agreement with *Provider*.
 
 ## 3. Common Terms 
 
@@ -146,34 +161,47 @@ No failure or delay by a Party in exercising any right, power, or remedy will op
 
 ## 4. Free Use Terms
 
-The terms of this section of "This Agreement" apply only to *"Customers"* that aquire a license to use *"The Software"* under the *"Free"* class of service *"Order Form"*.
+Free usage licenses for *The Software* are offered to qualifying *Customers* at no charge as specified in an *Order Form* (**“No Charge License”**).  The terms of section 4 of "This Agreement" apply only to *"Customers"* that aquire a license to use *"The Software"* under the *"No Charge License"* class of service *Order Form*.
 
 ### 4.1 License Grant
-*Provider* hereby grants to "The Customer" and Customers's Affiliates a non-exclusive, royalty-free, worldwide, non-transferrable license to use *"The Software"* and its associated Documentation to support their respective internal business and operations for the *"Subscription Term"* and under the class of service of the "Order Form".
+*Provider* hereby grants to *Customer* and *Customer's* a non-exclusive, royalty-free, worldwide, non-transferrable license to Use *"The Software"* and its associated Documentation to support their respective internal business and operations for the *Subscription Term* and under the *"No Charge License"* class of service *Order Form*.
 
 ### 4.2 License Prohibitions
-Customer may not (i) use *The Software* to provide commercial time sharing, outsourceing, or service bureau service to entities other than the Customer and its Affiliates; (ii) Use or access *The Software* to develop a product or service that is competitive with *Provider* products or engage in competative analysis or benchmarking; (iii)  transfer, distribute, resell, lease, license, or assign *The Software* or otherwise *The Software* on a standalone basis; or (iv) otherwise use *The Software* outside the scope expresssly permitted hereunder and in the *"Free"* class of service "Order Form"
+*Customer* may not:
+(i) use *The Software* to provide commercial time sharing, outsourceing, or service bureau service to entities other than the *Customer* and its *Affiliates*;
+(ii) Use or access *The Software* to develop a product or service that is competitive with *Provider* products or engage in competative analysis or benchmarking;
+(iii)  transfer, distribute, resell, lease, license, or assign *The Software* or otherwise *The Software* on a standalone basis;
+(iv) otherwise use *The Software* outside the scope expresssly permitted hereunder and in the *"No Charge License"* class of service *Order Form*
 
 ### 4.3 Free Usage Limitations
-Free usage licenses for *The Software* are offered at no charge as specified in an *Order Form* (“No Charge License”). *No Charge Licenses* will be available for and restricted to the Usage Limitation specified in an *Order Form*.  If a *Customer* exceeds the Usage Limitation for a *No Charge License*, then *Customer* will be responsible for all Fees due for such exceeded Use.  *Provider* may at any time upon 180 days notice change the Usage Limitations applicable under a *No Charge License* or completely discontinue the availability of No Charge Licenses, in
-the *Sevices Agencie's* discretion. Notwithstanding anything to the contrary in this *Agreement*, *The Software* provided under a *No Charge License* is provided “as is” without any warranty of any kind.  Additionally, for a *No Charge License*.
+*No Charge Licenses* usage limitations are specified on the *"No Charge Licenses"* *Order Form*.  If a *Customer* exceeds the Usage Limitation for a *No Charge License*, then *Customer* will be responsible for all Fees due for such exceeded Use.  *Provider* may at any time upon 180 days notice change the Usage Limitations applicable under a *No Charge License* or completely discontinue the availability of *No Charge Licenses*, in the *Provider's* discretion.
 
 ### 4.4 No Warranties
-The terms specified in section 5 of this document do not apply to *Customers* taking advantage of the *No Charge License*.  The "Free" class of service does not offer any warranties with respect to the *Customer* use of *The Software* or the quality of services provided by *Provider*.
+Notwithstanding anything to the contrary in this *Agreement*, *The Software* provided under a *No Charge License* is provided “as is” without any warranty of any kind.  Additionally, for a *No Charge License*.
+
+### 4.5 Exclusion of Pay Use Terms
+It is agreed by the *Customer* and *Provider* that the terms specified in section 5 of this document do not apply to *Customers* choosing to utilize the *"No Charge License"* *Order Form* to obtain the rights to use *The Software*.
 
 
 ## 5. Paid/Subscription Use Terms
 
 ### 5.1 License Grant
-*Provider* hereby grants to Customer and Customer’s Affiliates a non-exclusive, fully paid-up, royalty-free, worldwide, non-transferrable (except as provided in Section 5.12.2 hereof) license to Use *The Software* and Documentation to support their respective internal business and operations for the Subscription Term (the “License”). Each License is expressly limited for Use with a unique Customer component or components that are specified in an
-Order Form. For clarity, the License does not allow for distribution of any Source Code version of *The Software* modified by Customer, unless such right is expressly granted under an Order Form.
+*Provider* hereby grants to *Customer* a non-exclusive, fully paid-up, royalty-free, worldwide, non-transferrable license to Use *The Software* and Documentation to support their respective internal business and operations for the Subscription Term (the “License”). Each License is expressly limited for Use with a unique Customer component or components that are specified in an Order Form. For clarity, the License does not allow for Use by *Affiliates* modified by Customer, unless such right is expressly granted under an Order Form.
 
 ### 5.2 License Prohibitions
-Unless otherwise expressly agreed by *Provider* in writing, Customer may not: (i) decompile, disassemble, or otherwise attempt to derive Source Code from *The Software* (not applicable if Source Code is provided); (ii) use *The Software* to provide commercial time- sharing, outsourcing, or service bureau services to entities other than Customer and its Affiliates; (iii) use or access *The Software* to develop a product or service that is competitive with *Provider*’s products or engage in competitive analysis or benchmarking; (iviii) transfer, distribute, resell, lease, license, or assign *The Software* or otherwise offer *The Software* on a standalone basis; or (iv) otherwise use *The Software* outside the scope expressly permitted hereunder and in the applicable Order Form.
+Unless otherwise expressly agreed by *Provider* in writing, Customer may not:
+
+(i) decompile, disassemble, or otherwise attempt to derive Source Code from *The Software* (not applicable if Source Code is provided);
+(ii) use *The Software* to provide commercial time- sharing, outsourcing, or service bureau services to entities other than Customer and its Affiliates; (iii) use or access *The Software* to develop a product or service that is competitive with *Provider*’s products or engage in competitive analysis or benchmarking; (iviii) transfer, distribute, resell, lease, license, or assign *The Software* or otherwise offer *The Software* on a standalone basis;
+(iv) otherwise use *The Software* outside the scope expressly permitted hereunder and in the applicable Order Form.
 
 ### 5.3 Acceptance Tests
 Customer, with all necessary cooperation and assistance from *Provider*, will perform the acceptance tests to confirm that *The Software* conforms to the requirements of the Documentation and Order Form (the “Acceptance Tests”). For clarity, the Acceptance Test provisions in this Section shall only apply if Acceptance Tests are specifically indicated in an Order Form. Customer will have ten (10) days following delivery of *The Software* to perform Acceptance Tests. If *The Software* does not materially comply with the Documentation and/or Order Form, Customer will notify *Provider* of such determination in writing (the “Failure Notice”) and will describe in reasonable detail its reasons for such determination. Upon receipt
-of the Failure Notice *Provider* will make such necessary corrections and modifications to *The Software* as will cause *The Software* to materially conform to the Documentation and *Order Form*. If upon redelivery *The Software* does not materially conform to the Documentation and Order Form, Customer will promptly provide *Provider* with another Failure Notice, and will have the right to terminate the corresponding Order Form, as applicable, pursuant to Section ??? , and receive a full refund of all Fees paid to *Provider* under the applicable Order Form for *The Software*. Each Party shall bear its own costs in connection with the Acceptance Tests. Customer shall be deemed to have accepted *The Software* upon the earlier of (i) the date *The Software* passes the Acceptance Tests; (ii) failure of Customer to provide a Failure Notice within the acceptance test period; and (iii) Use by Customer of *The Software* in a production environment (the “Acceptance”).
+of the Failure Notice *Provider* will make such necessary corrections and modifications to *The Software* as will cause *The Software* to materially conform to the Documentation and *Order Form*. If upon redelivery *The Software* does not materially conform to the Documentation and Order Form, Customer will promptly provide *Provider* with another Failure Notice, and will have the right to terminate the corresponding Order Form, as applicable, pursuant to Section ??? , and receive a full refund of all Fees paid to *Provider* under the applicable Order Form for *The Software*. Each Party shall bear its own costs in connection with the Acceptance Tests. Customer shall be deemed to have accepted *The Software* upon the earlier of:
+
+(i) the date *The Software* passes the Acceptance Tests;
+(ii) failure of Customer to provide a Failure Notice within the acceptance test period;
+(iii) Use by Customer of *The Software* in a production environment (the “Acceptance”).
 
 ### 5.4 Representations And Warranties
 
@@ -496,5 +524,22 @@ Means any statute, regulation, ordinance, rule, order, decree, or governmental r
 ### 6.16 Malware
 Means program code or programming instruction(s) or set(s) of instructions intentionally designed to disrupt, harm, interfere with or otherwise adversely affect computer programs, data files or operations, or other code typically described as a virus, Trojan horse, worm, back door or other type of harmful code.
 
-### 6.17 Open Source
+### 6.17 Object Code
+Code in machine readable form generated by compilation of the Source Code and contained in a medium that permits it to be loaded into and operated on
+the specified equipment.
+
+### 6.18 Open Source
 Denoting software for which the original source code is made freely available and may be redistributed and modified.
+
+### 6.19 Source Code
+Means Code in programming languages, including all comments and procedural code and all related development documents (e.g., flow charts, schematics,
+statements of principles of operations, end-user manuals, architecture standards, and any other specifications that are used to create or that comprise the Code).
+
+### 6.20 Specifications
+Means the specifications for the Software and, to the extent consistent with and not limiting of the foregoing, the Documentation
+
+
+
+
+
+
