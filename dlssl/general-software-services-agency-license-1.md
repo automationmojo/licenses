@@ -11,19 +11,18 @@ All requests for changes to *this License*  must be submitted for review via pul
 
     [Automation Mojo Licenses](https://github.com/automationmojo/licenses)
 
-Any requests for modifications to this licensed must be reviewed and approved by Automation Mojo LLC and its in house counsel.  Any party submitting a change request must pay for all expenses incurred as part of the review process.  Automation Mojo LLC reserves the right to deny any changes requested to the terms of this license.
+Any requests for modifications to this license must be reviewed and approved by Automation Mojo LLC and its in house counsel.  Any party submitting a change request must pay for all expenses incurred as part of the review process.  Automation Mojo LLC reserves the right to deny any changes requested to the terms of this license.
 
 ## 1. Common Definitions
 
 ### 1.1 "this License or the License"
-As used herein, **this License** or **the License** refers to version 1 of the Automation Mojo - Dual License - Software Services
-Agency License
+As used herein, **this License** or **the License** refers to version 1 of the Automation Mojo - Dual License - Software Services Agency License
 
 ### 1.2 "Provider"
 The term **Provider**, refers to Automation Mojo LLC..
 
 ### 1.3 "The Software"
-The term **The Software** refers to one or more software products, all under a common license and as specified on an *Order Form*, that are provided by *Provider* to *Customer* the format(Object Code or Source Code) of such being specified on the *Order Form*
+The term **The Software** refers to one or more software products, all under a common license as specified on an *Order Form*, that are provided by *Provider* to *Customer* the format(Object Code or Source Code) of such being specified on the *Order Form*
 
 ### 1.4 "Services"
 Means collectively, support services and professional services as specified by the terms of this *License* or on the completed *Order Form*
@@ -35,13 +34,13 @@ Means collectively, support services and professional services as specified by t
 **Support Services** means services related to maintenance and support in connection with *The Software* as specified by an *Order Form*.
 
 ### 1.5 "Agreement"
-**Agreement** means the combined terms of *the License* and the *Order Form* that is completed forming an agreed upon set of the *Provider's* software products all presented under the same license and a defined *Class of Service* which details the specific services and associated terms that will exist between the *Provider* and the *Customer* 
+**Agreement** means the combined terms of a common *the License* associated with a collections of software packages provided by *Provider* and the *Order Form* that specifies the collection of software packages being licensed and the terms of services.  The terms of service from the *Order Form* forming a class of service agreement between the *Provider* and the *Customer*.
 
 ### 1.6 "Dual License"
 A **Dual License** is a software license that offers the use of *The Software* to customers falling into two distinct groups of terms *Free Use* and *Paid Use*.  For this *License*, specific consumers are offered a license to utilize the *Software* for free, if they meet specific criteria and are willing to forego warranties of service.  Customers who do not qualify for the *Free Use* license or who require warranties of service must use an *Order Form* to establish class of service under the *Paid Use* terms of services.
 
 ### 1.7 "Customer"
-**Customer** refers to the individual, party or company that obtains a license to use "The Software" and "Services" offered by *Provider*.
+**Customer** refers to the individual, party or company that obtains a license to Use "The Software" and "Services" offered by *Provider*.
 
 ### 1.8 "Party"
 **Party** refers to either the *Customer* or *Provider* as appropriate.
@@ -50,19 +49,21 @@ A **Dual License** is a software license that offers the use of *The Software* t
 **"Parties"** refers to the *Customer* and *Provider*
 
 ### 1.10 "Order Form"
-**"Order Form"** refers to a document that explicitly defines the nature of the agreed upon *Class of Service* that is being agreed upon between *Provider* and the *Customer* with respect to the use of a specific *Software Product(s)* offered by the *Service Agency* and accompanying services which are  detailed on the *Order Form*.  The *Order Form* also specifies the timeframes, compensation, and specific services that are being agreed upon between the *Parties*. 
+**"Order Form"** refers to a document that explicitly defines the nature of the agreed upon *Class of Service* that is being agreed upon between *Provider* and the *Customer* with respect to the Use of specific *Software Product(s)* offered by *Provider* and accompanying services which are etailed on the *Order Form*.  The *Order Form* also specifies the timeframes, compensation, and specific services that are being agreed upon between the *Parties*. 
 
 ## 2. Preamble
 
 The purpose of this *License* is to establish a general framework by which terms of service can be establish for the use of *"The Software"*.  Under this *License*, rights to Use *"The Software"* are issued based on a *Class of Service* model.  The *Class of Service* model allows a software *Provider* to make software solutions available on a trial basis and to specific qualifying entities for free while at the same time collecting fees from organizations wishing to use a software solution for regular use.
 
-This *License* requires all *Customers* that wish to use *The Software* to register thier terms of Use by completing an *Order Form*.  The ability to register *Customers* and to charge subscription fees for the use of *The Software* and services are a critical component of the funding, development and ongoing maintenance of software projects.
+This *License* offers two classes of services *Free Use* and *Paid Use*. *Customers* that intend to use *The Software* obtain rights to Use this software by using an *"Order Form"* to establish a "Class of Service" agreement with *Provider*.  The combinded terms of this license and the "Order Form" work together to establish the full terms of the agreement between *Provider* and the *Customer*.
 
-This *License* offers two classes of services *Free Use* and *Paid Use*. *Customers* that intend to use *The Software* obtain rights to use this software by using an *"Order Form"* to establish a "Class of Service" agreement with *Provider*.  The combinded terms of this license and the "Order Form" work together to establish the full terms of the agreement between *Provider* and the *Customer*.  All *Customers* wishing to obtain the rights to Use *The Software* must complete the process of submitting an appropriate 'Order Form' through the Automation Mojo website.
+This *License* requires all *Customers* that wish to use *The Software* to register thier terms of Use by completing an *Order Form*.  By completing an appropriate *Order Form* the *Customer* enters into an agreement with *Provider* to use *The Software* under specific terms and provides notice to *Provider* of thier use of *The Software*.
+
+Notification of Use by *Customers* is crucial for *Provider* to be able to function as an agency that delivers software solutions for customers regardless of whether the customer is using the software under the "Free Use" class of service or under a "Paid Use" class of service.  
+
+Properly obtaining the rights to Use *The Software*, regardless of whether you qualify for the *Free Use* service class, is very important for the maintenance of the software and for keeping customers informed about upcoming changes to the software.   The information we gather from an "Order Form" about who our customers are, is invaluable to help ensure we provide the best service possible to all our customers.
 
     http://automationmojo.com/products
-
-Properly obtaining the rights to use *The Software*, regardless of whether you qualify for the *"Free"* service class, is very important for the maintenance of the software and for keeping customers informed about upcoming changes to the software.   The information we gather from an "Order Form" about who our customers are, is invaluable to help ensure we provide the best service possible to all our customers.
 
 *Provider* reserves the right to change the criteria used to determine what *Parties* are entitle to use the *Free Use* class of services.
 
@@ -81,81 +82,87 @@ This agreement is non-exclusive and, unless expressly stated otherwise in an *Or
 ### 3.2 Software Modifications
 This software is designed to be extended, customized and branded by the *Customer* for internal use.  This agreement does not allow the customization of this software for resale to another customer.  A *Third Party Agency* may extend or customize *The Software* for a *Customer* provided that the *Customer* obtains a license of *The Software* via *Provider* appropriate *Order Form*.
 
-### 3.3 Use by Partners
-There may be occasions where *The Customer* wishes to offer *The Software* to partners as a tool for validating the *Customer's* own products.  The use of "The Software" as a tool by partners must be authorized by the terms of an *Order Form* or by each partner obtaining a license to use *The Software* by completing an "Order Form".  The terms of *This Agreement* do not allow the use of *The Software* by a *Customer's* partners.   
+### 3.3 Software Packaging and Redistribution
+*The Software* is organized into a distributable form by *Provider* and published under a specific identity (such as a package name).  This license does not authorize the modification of *The Software* and republishing under the same identity it was originally published under.  All redistribution of *The Software* under its original identity must be an exact copy of *The Software* in its originally published form.
 
-### 3.4 Use for Third Parties
-Customer may purchase from *Provider* the rights to Use the Software for third parties with the scope of any such rights set forth by the class of service associated with an *Order Form*.
+The terms of *This License* does authorize the redistribution of *The Software* in its originally published form.
 
-### 3.5 Delivery
-*The Software* is made available on an ongoing basis via the use of an online software repository.  This means the *Customer* is entitled to obtain copies of *"The Software"* at any time.  *Provider* is not responsible for any work stopages or outages due to any repository downtime.   In situations where immediate on-demand delivery of *The Software* is a part of the *Customer's* internal operations and processes, it is recommended that the *Customer* utilize an internal package management system that caches an copy of the different version of *The Software*.
+### 3.4 Use by Partners
+There may be occasions where *Customer* wishes to offer *The Software* to partners as a tool for validating *Customer's* own products.  The use of "The Software" as a tool by partners must be authorized by the terms of an *Order Form* or by each partner obtaining a license to Use *The Software* by completing an "Order Form".  The terms of *This License* alone do not allow the Use of *The Software* by a *Customer's* partners.   
 
-### 3.6 Updates
-Customer acknowledges that *The Software* may evolve over time and *Provider* retains the right to modify, update, and/or upgrade the Software during the License term ("Update").  In the event of such an Update, *Customer's* payment obligations will remain unchanged for the duration of the then existing Subscription Term.  Other than Updates, the *Provider* may release features or modules to which additional Fees may apply. If such an Update would have a material adverse effect on the operation of *The Software* or the compatibility with *Customer’s* business or regulatory requirements, including, without limitation, hardware, software or browser configurations, then *Customer* may, in its sole discretion, reject such Updates. Without limiting the foregoing, with respect to each major Update or change, *Provider* may, on terms to be agreed, provide such Services as requested by *Customer* to assist in any installation and integration of the Update.
+### 3.5 Use for Third Parties
+*Customer* may purchase from *Provider* the rights to Use the Software for third parties with the scope of any such rights set forth by the class of service terms associated with an *Order Form*.
 
-### 3.7 Monitoring
-An *Order Form* and the associated class of service may impose limitations on Customer's Use of *The Software* which *Customer* may be capable of exceeding, such as a cap on the number of Authorized Users or number of projects, restrictions of use with designated *Customer* components or in the use of *The Software* to support commercial operations (each, a "Usage Limitation").  *Provider* may monitor *Customer’s* compliance with Usage Limitations using *Provider* own resources such as server logs and similar records or usage data provided from *The Software* to *Provider*. If *Provider* cannot determine *Customer’s* compliance with a Usage Limitation solely with reference to *Provider* own resources, *Provider* may request in writing no more than once every twelve (12) months that Customer provide a report to *Provider* concerning Customer’s compliance with the Usage Limitation. Customer shall provide such report to *Provider* within a reasonable time after receiving the request (not to exceed sixty (60) days), and such report will include a listing of versions of *The Software* in use by Customer as well as the specific Customer components within which *The Software* is Used*Provider* reports will be issued by knowledgeable personnel of Customer.  The obligation to provide the foregoing reports shall survive any termination of this Agreement for so long as Customer continues to Use *The Software*.
+### 3.6 Delivery
+*The Software* is made available on an ongoing basis via the use of an online software repository.  This means *Customer* is entitled to obtain copies of *"The Software"* at any time.  *Provider* is not responsible for any work stopages or outages due to any repository downtime.   In situations where immediate on-demand delivery of *The Software* is a part of *Customer's* internal operations and processes, it is recommended that the *Customer* utilize internal package management systems or other delivery systems that cache a copy of the different version of *The Software*.
 
-### 3.8 Exceeding Usage Limitations
-If Customer exceeds a Usage Limitation, then no more than once every twelve (12) months, *Provider* may provide to Customer a written notice which states what the Usage Limitation is, the amount by which Customer is exceeding the Usage Limitation, how the exceedance was measured, and the amount of additional Fees that Customer will be required to pay through the end of the Order Form Term at the rate stated in the Order Form with respect to the Usage Limitation (the “Exceedance Notice”). If Customer receives an Exceedance Notice, Customer shall pay additional Fees to the extent of its exceedance.  The additional Fees shall be calculated from the date Customer exceeded the Usage Limitation through the end of the Order Form Term.
+### 3.7 Updates
+*Customer* acknowledges that *The Software* may evolve over time and *Provider* retains the right to modify, update, and/or upgrade *The Software* during the License term ("Update").  In the event of such an Update, *Customer's* payment obligations will remain unchanged for the duration of the then existing Subscription Term.
 
-### 3.9 Term and Terminiation
+*Provider* releases updates to modules and packages using version control mechanisms.  *Customer* is reponsible to include *The Software* into thier systems and processes utilizing version control techniques.  *Customer* is also responsible to use best practices for testing compantibility of new versions of *The Software* with thier systems and processes before converting over to new versions of *The Software*.  *Customer* is responsible to reject any updates that might cause an adverse effect to internal systems or processes, notify *Provider* of any issues, and to make appropriate changes to internal code that might have been antiquated due to updates.
 
-#### 3.9.1 Suspension
-*Provider* may suspend a License and Services if and to the extent that Customer does not pay undisputed Fees when due and fails to cure such breach within thirty (30) days after receiving notice thereof from *Provider*, provided that any such suspension shall end when the breach ends or is cured.
+### 3.8 Monitoring
+An *Order Form* and the associated class of service may impose limitations on Customer's Use of *The Software* which *Customer* may be capable of exceeding, such as a cap on the number of Authorized Users or number of projects, restrictions of use with designated *Customer* components or in the use of *The Software* to support commercial operations (each, a "Usage Limitation").  *Provider* may monitor *Customer’s* compliance with Usage Limitations using *Provider* own resources such as server logs and similar records or usage data provided from *The Software* to *Provider*.  If *Provider* cannot determine *Customer’s* compliance with a Usage Limitation solely with reference to *Provider's* own resources, *Provider* may request in writing no more than once every twelve (12) months that *Customer* provide a report to *Provider* concerning *Customer’s* compliance with the Usage Limitation. *Customer* shall provide such reports to *Provider* within a reasonable time after receiving the request (not to exceed sixty (60) days), and such report will include a listing of versions of *The Software* in use by *Customer* as well as the specific *Customer* components within which *The Software* is Used. *Provider* reports will be issued by knowledgeable personnel of *Customer*.  The obligation to provide the foregoing reports shall survive any termination of this Agreement for so long as *Customer* continues to Use *The Software*.
 
-#### 3.9.2 Term
-The initial term of this Agreement will begin on the Effective Date and will continue for a period of one (1) year.  Thereafter, this Agreement will renew for subsequent periods of one (1) year unless terminated by written notice issued by a Party at least thirty (30) days prior to the expiration of the then-current term. Upon the expiration or termination of this Agreement, any outstanding Order Form will continue under the terms of this Agreement during the term applicable to such Order Form. Either Party may terminate this Agreement at any time when there is no outstanding Order Form.
+### 3.9 Exceeding Usage Limitations
+If Customer exceeds a Usage Limitation, then no more than once every twelve (12) months, *Provider* may provide to *Customer* a written notice which states what the Usage Limitation is, the amount by which *Customer* is exceeding the Usage Limitation, how the exceedance was measured, and the amount of additional Fees that *Customer* will be required to pay through the end of the *Order Form Term* at the rate stated in the *Order Form* with respect to the Usage Limitation (the “Exceedance Notice”). If Customer receives an Exceedance Notice, *Customer* shall pay additional Fees to the extent of its exceedance.  The additional Fees shall be calculated from the date *Customer* exceeded the Usage Limitation through the end of the Order Form Term.
 
-#### 3.9.3 Termination for Cause
-Either Party may terminate this Agreement or an Order Form, if the other Party materially breaches any obligation under this Agreement or an Order Form and does not cure such breach within thirty (30) days after receiving written notice thereof from the other Party.
+### 3.10 Term and Terminiation
 
-#### 3.9.4 Effects Triggered By Termination
-Upon a termination of an Order Form, all License rights granted to Customer in *The Software* shall cease, *Provider* shall cease to provide the Services,
-Customer shall destroy all copies of the Software in its possession, and upon request, will provide a written certification from a management-level personnel confirming such destruction, and pay to *Provider* any outstanding Fees.
+#### 3.10.1 Suspension
+*Provider* may suspend a License and Services if and to the extent that *Customer* does not pay undisputed Fees when due and fails to cure such breach within thirty (30) days after receiving notice thereof from *Provider*, provided that any such suspension shall end when the breach ends or is cured.
 
-#### 3.9.5 Transition Support
-Upon termination or expiration of a License, *Provider* shall provide transition support as requested by Customer on terms to be agreed (“Transition Support”), which may include the following: for all Software products, allow Customer to continue Using the terminated Software for up to one hundred eighty (180) days after date of termination or expiration in accordance with the terms and rate of Fees set forth in the applicable Order Form(s).
+#### 3.10.2 Term
+The initial term of a Use Agreement will begin on the Effective Date of the completion of an *Order Form* and will continue for a period of one (1) year.  Thereafter, the Agreement will renew for subsequent periods of one (1) year unless terminated by written notice issued by a Party at least thirty (30) days prior to the expiration of the then-current term. Upon the expiration or termination of the Agreement, any outstanding *Order Form* will continue under the terms of the Agreement during the term applicable to such *Order Form*. Either Party may terminate the Agreement at any time when there is no outstanding *Order Form*.
 
-#### 3.9 Governing Law; Jurisdiction
+#### 3.10.3 Termination for Cause
+Either Party may terminate the Agreement formed by the terms of this License and an *Order Form*, if the other Party materially breaches any obligation under this License or an *Order Form* and does not cure such breach within thirty (30) days after receiving written notice thereof from the other Party.
+
+#### 3.10.4 Effects Triggered By Termination
+Upon a termination of an Order Form, all Usage rights granted to Customer in *The Software* shall cease, *Provider* shall cease to provide the Services, *Customer* shall destroy all copies of *The Software* in its possession, and upon request, will provide a written certification from a management-level personnel confirming such destruction, and pay to *Provider* any outstanding Fees.
+
+#### 3.10.5 Transition Support
+Upon termination or expiration of the Agreement, *Provider* shall provide transition support as requested by *Customer* on terms to be agreed (“Transition Support”), which may include the following: for all Software products, allow *Customer* to continue Using the terminated Software for up to one hundred eighty (180) days after date of termination or expiration in accordance with the terms and rate of Fees set forth in the applicable *Order Form(s)*.
+
+#### 3.11 Governing Law; Jurisdiction
 This Agreement, each Order Form, are governed by the laws of the State of Washington and the United States as though fully performed in Washington,
 without regard to provisions relating to conflicts of laws.  The UN Convention for the International Sale of Goods and the Uniform Computer Information Transactions Act (UCITA) will not apply.  The Parties agree that the applicable state and federal courts located in King County, Washington will have exclusive jurisdiction to adjudicate any disputes between the parties arising under this Agreement and the Parties agree to submit to the jurisdiction of such courts.
 
-#### 3.10 Assignment
+#### 3.12 Assignment
 Without prior written consent of the other Party, neither Party may assign, transfer, or otherwise convey or delegate any of its rights or duties thereunder (except to its successor entity emerging from a merger, acquisition, or reorganization of *Provider*) and any attempt to do so will be void. This Agreement and each Order Form shall be binding upon the respective successors and permitted assigns of the Parties.
 
-#### 3.11 Force Majeure
+#### 3.13 Force Majeure
 A Party affected by a Force Majeure Event shall promptly notify the other Party of the Force Majeure Event and of its plans and efforts to implement a work-around, in which case the affected Party will be excused from further performance of the affected obligations as long as the Force Majeure Event continues to prevent performance and cannot be reasonably circumvented.  The affected Party shall continue to use Commercially Reasonable Efforts to perform to the extent possible and will comply with any applicable disaster mitigation or recovery obligations. For as long as the Force Majeure Event continues, the affected Party shall use Commercially Reasonable Efforts to recommence performance without delay.  The affected Party shall notify the other Party promptly when the Force Majeure Event has abated or can be circumvented. If a Force Majeure Event prevents, or is reasonably expected to prevent, performance for more than thirty (30) days, the non-affected Party may terminate the affected Order Form as of a date specified in a written notice of termination to the affected Party, in which case Customer will pay all Fees incurred for *The Software* and Professional Services rendered through the termination date.
 
-#### 3.12 Entire Agreement
+#### 3.14 Entire Agreement
 *This Agreement* and each *Order Form* constitutes the entire agreement between the *Parties* with respect to its subject matter and merges, integrates and supersedes all prior and contemporaneous agreements and understandings between the *Parties*, whether written or oral, concerning its subject matter. No alternative terms, subsequent terms, conditions, understandings, or agreements purporting to modify the terms of this *Agreement* or of any *Order Form* will be binding on a Party unless in writing and signed by duly authorized representatives of both Parties. This *Agreement* may be executed in counterparts, each of which shall be an original and together shall constitute one and the same instrument.
 
-#### 3.13 Export
+#### 3.15 Export
 The United States and certain foreign countries may regulate the export and re-export of technology originating in the United States. Exporting and re-exporting may include the electronic transfer or dissemination of content and software to foreign countries, to certain foreign nationals, and to certain specially designated nationals.  The Parties agree to abide by these laws and their regulations, including but not limited to the Export Administration Act and the Arms Export Control Act.
 
-#### 3.14 Interpretation
+#### 3.16 Interpretation
 Section references are to sections of the document in which the reference is contained and refer to and include all subsections of the referenced section.  The section headings in this Agreement are for reference purposes only and do not modify or restrict any term of this Agreement. This Agreement and each Order Form will be deemed to have been written by both Parties contributing equally to each provision. This Agreement and each Order Form are written in the English language, and such English text shall prevail over any translation.
 
-#### 3.15 Notices
+#### 3.17 Notices
 All formal notices, requests, demands, approvals and communications under this Agreement or any Order Form (other than routine operational communications) (collectively, “Notices”) must be in writing and shall be deemed delivered upon verifiable receipt.
 
-#### 3.16 Relationship of the Parties
+#### 3.18 Relationship of the Parties
 *Provider* is an independent contractor and is not an agent, servant, employee, legal representative, partner, or joint venturer of Customer or any Affiliate of Customer. Nothing in this Agreement creates a joint venture or partnership between *Provider* and Customer or any of Customer’s Affiliates.  *Provider* has the sole right and obligation to supervise, manage, and direct all work to be performed by *Provider* Personnel under this Agreement.  *Provider* has no authority to represent or bind Customer.
 
-#### 3.17 Remedies Cumulative
+#### 3.19 Remedies Cumulative
 All remedies provided in this Agreement or an Order Form are cumulative and in addition to and not in lieu of any other remedies available to a Party under this Agreement or the Order Form, at law or in equity.
 
-#### 3.18 Severability
+#### 3.20 Severability
 If any provision of this Agreement or an Order Form is held invalid by an arbitrator or court of competent jurisdiction, such provision will be severed, and the remainder of the Agreement or Order Form will remain in full force and effect and will be construed to effectuate the Parties’ intent to the maximum extent possible.
 
-#### 3.19 Survival
+#### 3.21 Survival
 Any provision of this Agreement or an Order Form that contemplates or governs performance or observance after expiration or termination of this Agreement or the Order Form will survive the expiration or termination of this Agreement or the Order Form.
 
-#### 3.20 Third-Party Beneficiaries
+#### 3.22 Third-Party Beneficiaries
 This Agreement and each Order Form are entered into solely between *Provider* and Customer or Customer’s Affiliate and except as expressly set forth
 herein will not create any rights in, or any obligations to, any third parties beneficiaries except the Customer Indemnitees and, in the case of Order Forms entered into by a Customer Affiliate, Customer.
 
-#### 3.21 Waiver
+#### 3.23 Waiver
 No failure or delay by a Party in exercising any right, power, or remedy will operate as a waiver of that right, power, or remedy, and no waiver will be effective unless it is in writing and signed by an authorized representative of the waiving Party. If a Party waives any right, power, or remedy, the waiver will not waive any successive or other right, power, or remedy that Party may have.
 
 
