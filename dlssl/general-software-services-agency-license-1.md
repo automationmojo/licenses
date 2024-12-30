@@ -66,9 +66,9 @@ The purpose of this *License* is to establish a general framework by which terms
 
 This *License* offers two classes of services *Free Use* and *Paid Use*. *Customers* that intend to use *The Software* obtain *Usage Rights* to software offered under *This License* by using an *"Order Form"* to establish a "Class of Service" agreement with *Provider*.  The combinded terms of *This License* and the "Order Form" work together to establish the full terms of the *Agreement* between *Provider* and the *Customer* which then conveys *Usage Rights* to *Customer*.
 
-This *License* requires all *Customers* that wish to use *The Software* to register thier terms of Use by completing an *Order Form*.  By completing an appropriate *Order Form* the *Customer* enters into an agreement with *Provider* to use *The Software* under specific terms and provides notice to *Provider* of thier use of *The Software*.
+This *License* requires all *Customers* that wish to use *The Software* to register their terms of Use by completing an *Order Form*.  By completing an appropriate *Order Form* the *Customer* enters into an agreement with *Provider* to use *The Software* under specific terms and provides notice to *Provider* of their use of *The Software*.
 
-Notification of Use by *Customers* is crucial for *Provider* to be able to function as an services agency that delivers software solutions for customers.Regardless of whether the customer is using the software under the "Free Use" class of service or under a "Paid Use" class of service, *Provider* needs to be collection information and feedback about the usage patterns of *The Software* in order to provide stable and ongoing service to *Customers*
+Notification of Use by *Customers* is crucial for *Provider* to be able to function as an services agency that delivers software solutions for customers.Regardless of whether the customer is using the software under the "Free Use" class of service or under a "Paid Use" class of service, *Provider* needs to be collecting information and feedback about the usage patterns of *The Software* in order to provide stable and ongoing service to *Customers*
 
 Properly obtaining the rights to Use *The Software*, regardless of whether you qualify for the *Free Use* service class, is the only way to obtain *Usage Rights* for *The Software*.  
 
@@ -79,7 +79,7 @@ Properly obtaining the rights to Use *The Software*, regardless of whether you q
 The current criteria to quality for the *Free Use* class of service is as follows:
 
 * Non-commercial and Non-Governmental entities
-* Commercial entities with less than 10 people and that do not have more than 1 million in gross sales
+* Commercial entities with less than 10 employees and that do not have more than 1 million in gross sales
 
 All other entities must obtain a license under the *Paid Use* service class.  The *Free Use* service class does not include customer support services.  If specific quality of support services are required, *Customer* must switch to the "Paid Use" license in order to enter into a adequate *Class of Service* agreement with *Provider*.
 
@@ -87,10 +87,10 @@ All other entities must obtain a license under the *Paid Use* service class.  Th
 ## 3. Common Terms 
 
 ### 3.1 No Exclusivity
-*The Agreement* formed by *This License* and the execution of an *Order Form* is non-exclusive and, unless expressly stated otherwise in an *Order Form* or *Work Order* with respect to a particular Software or Service.  Either party to *The Agreement* may contract with other parties for the procurement or sale of similar Software and Services.
+*The Agreement* formed by *This License* and the execution of an *Order Form* is non-exclusive, unless expressly stated otherwise in an *Order Form* or *Work Order* with respect to a particular Software or Service.  Either party to *The Agreement* may contract with other parties for the procurement or sale of similar Software and Services.
 
 ### 3.2 Order Form
-All *Parties* agree that for the terms of *This License*.  All references to *Order Form* refers to an *Order Form* offered by *Provider* to *Customer*.  *Order Forms* offered by other parties do not constitute an agreement between *Provider* and a *Customer* for the rights to use *The Software* or for the rights to warranties or services.  
+All *Parties* agree that for the terms of *This License*, all references to *Order Form* refers to an *Order Form* offered by *Provider* to *Customer*.  *Order Forms* offered by other parties do not constitute an agreement between *Provider* and a *Customer* for the rights to use *The Software* or for the rights to warranties or services.  
 
 ### 3.3 Software Modifications
 This software is designed to be extended, customized and branded by the *Customer* for internal use.  *This License* does not allow the customization of this software for resale to another customer.  A *Third Party Agency* may extend or customize *The Software* for a *Customer* provided that the *Customer* obtains a license of *The Software* via the appropriate *Order Form* offered by *Provider*.
@@ -114,7 +114,7 @@ There may be occasions where *Customer* wishes to offer *The Software* to partne
 ### 3.8 Updates
 *Customer* acknowledges that *The Software* may evolve over time and *Provider* retains the right to modify, update, and/or upgrade *The Software* during the License term ("Update").  In the event of such an Update, *Customer's* payment obligations will remain unchanged for the duration of the then existing Subscription Term.
 
-*Provider* releases updates to modules and packages using version control mechanisms.  *Customer* is reponsible to include *The Software* into thier systems and processes utilizing version control techniques.  *Customer* is also responsible to use best practices for testing compantibility of new versions of *The Software* with thier systems and processes before converting over to new versions of *The Software*.  *Customer* is responsible to reject any updates that might cause an adverse effect to internal systems or processes, notify *Provider* of any issues, and to make appropriate changes to internal code that might have been antiquated due to updates.
+*Provider* releases updates to modules and packages using version control mechanisms.  *Customer* is responsible to include *The Software* into their systems and processes utilizing version control techniques.  *Customer* is also responsible to use best practices for testing compatibility of new versions of *The Software* with their systems and processes before converting over to new versions of *The Software*.  *Customer* is responsible to reject any updates that might cause an adverse effect to internal systems or processes, notify *Provider* of any issues, and to make appropriate changes to internal code that might have been antiquated due to updates.
 
 ### 3.9 Monitoring
 An *Order Form* and the associated class of service may impose limitations on Customer's Use of *The Software* which *Customer* may be capable of exceeding, such as a cap on the number of Authorized Users or number of projects, restrictions of use with designated *Customer* components or in the use of *The Software* to support commercial operations (each, a "Usage Limitation").  *Provider* may monitor *Customer’s* compliance with Usage Limitations using *Provider* own resources such as server logs and similar records or usage data provided from *The Software* to *Provider*. If *Provider* cannot determine *Customer’s* compliance with a Usage Limitation solely with reference to *Provider* own resources, *Provider* may request in writing no more than once every twelve (12) months that *Customer* provide a report to *Provider* concerning Customer’s compliance with the Usage Limitation. *Customer* shall provide such report to *Provider* within a reasonable time after receiving the request (not to exceed sixty (60) days), and such report will include a listing of versions of *The Software* in use by *Customer* as well as the specific *Customer* components within which *The Software* is Used*Provider* reports will be issued by knowledgeable personnel of Customer.  The obligation to provide the foregoing reports shall survive any termination of *The Agreement* for so long as *Customer* continues to Use *The Software*.
@@ -122,7 +122,7 @@ An *Order Form* and the associated class of service may impose limitations on Cu
 ### 3.10 Exceeding Usage Limitations
 If Customer exceeds a Usage Limitation, then no more than once every twelve (12) months, *Provider* may provide to *Customer* a written notice which states what the Usage Limitation is, the amount by which *Customer* is exceeding the Usage Limitation, how the exceedance was measured, and the amount of additional Fees that *Customer* will be required to pay through the end of the *Order Form Term* at the rate stated in the *Order Form* with respect to the Usage Limitation (the “Exceedance Notice”). If Customer receives an Exceedance Notice, *Customer* shall pay additional Fees to the extent of its exceedance.  The additional Fees shall be calculated from the date *Customer* exceeded the Usage Limitation through the end of the *Order Form* Term.
 
-### 3.11 Term and Terminiation
+### 3.11 Term and Termination
 
 #### 3.11.1 Suspension
 *Provider* may suspend a License and Services if and to the extent that *Customer* does not pay undisputed Fees when due and fails to cure such breach within thirty (30) days after receiving notice thereof from *Provider*, provided that any such suspension shall end when the breach ends or is cured.
@@ -202,7 +202,7 @@ Free usage licenses for *The Software* are offered to qualifying *Customers* at 
 *No Charge Licenses* usage limitations are specified on the *"No Charge Licenses"* *Order Form*.  If a *Customer* exceeds the Usage Limitation for a *No Charge License*, then *Customer* will be responsible for all Fees due for such exceeded Use.  *Provider* may at any time upon 180 days notice change the Usage Limitations applicable under a *No Charge License* or completely discontinue the availability of *No Charge Licenses*, in the *Provider's* discretion.
 
 ### 4.4 No Warranties
-Notwithstanding anything to the contrary in this *Agreement*, *The Software* provided under a *No Charge License* class of service is provided “as is” without any warranty of any kind.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS *AGREEMENT*, *THE SOFTWARE* PROVIDED UNDER A NO CHARGE LICENSE CLASS OF SERVICE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE.
 
 ### 4.5 Exclusion of Pay Use Terms
 It is agreed by the *Customer* and *Provider* that the terms specified in section 5 of this document do not apply to *Customers* choosing to utilize the *"No Charge License"* class of service *Order Form* to obtain *Usage Rights* for *The Software*.
@@ -213,7 +213,7 @@ It is agreed by the *Customer* and *Provider* that the terms specified in sectio
 The terms of this section 5 of *This License* apply only to *Customers* who obtain a *Usage Right* for *The Software* under a *"Paid Use"* class of service *Order Form*.
 
 ### 5.1 License Grant
-*Provider* hereby grants to *Customer* a non-exclusive, fully paid-up, royalty-free, worldwide, non-transferrable license to Use *The Software* and Documentation to support their respective internal business and operations for the Subscription Term (the "Usage Right"). Each License is expressly limited for Use with a unique *Customer* component or components that are specified in an *Order Form*. For clarity, *This License* does not allow for Use of *The Software* or *Costomer* modified versions of *The Software* by *Affiliates*, unless such right is expressly granted under an *Order Form*.
+*Provider* hereby grants to *Customer* a non-exclusive, fully paid-up, royalty-free, worldwide, non-transferrable license to Use *The Software* and Documentation to support their respective internal business and operations for the Subscription Term (the "Usage Right"). Each License is expressly limited for Use with a unique *Customer* component or components that are specified in an *Order Form*. For clarity, *This License* does not allow for Use of *The Software* or *Customer* modified versions of *The Software* by *Affiliates*, unless such right is expressly granted under an *Order Form*.
 
 ### 5.2 License Prohibitions
 Unless otherwise expressly agreed by *Provider* in writing, *Customer* may not:
@@ -239,7 +239,7 @@ Unless otherwise expressly agreed by *Provider* in writing, *Customer* may not:
 #### 5.4.2 Documentation
 *Provider* represents and warrants that the technical Documentation delivered to *Customer* for *The Software* will be sufficient to allow a reasonably knowledgeable information technology professional with experience or training in *Provider*’s products to administer, maintain and support such Software.
 
-#### 5.4.3 Conformance and Pefromance
+#### 5.4.3 Conformance and Performance
 *Provider* represents, warrants and covenants to *Customer* that *The Software* shall substantially conform to, and perform in accordance with, *The Documentation*, *Specifications* and *Requirements* of each applicable *Order Form* in all material respects.
 
 #### 5.4.4 Performance of Services
@@ -248,7 +248,7 @@ Unless otherwise expressly agreed by *Provider* in writing, *Customer* may not:
 ### 5.5 Customer Integrations, Configurations and Modifications
 
 #### 5.5.1 Customization by Customers
-*The Software* has been developed to be highly configurable and customizable by *Customers*.  *The Software* allows for functionality in *The Software* to be replaced or customized by software hooks. The *Customer* is encouraged to utilize existing hooks to override funcationality and to make customizations in repositories owned and maintained *Customer*.
+*The Software* has been developed to be highly configurable and customizable by *Customers*.  *The Software* allows for functionality in *The Software* to be replaced or customized by software hooks. The *Customer* is encouraged to utilize existing hooks to override functionality and to make customizations in repositories owned and maintained *Customer*.
 
 #### 5.5.2 Software Layering
 *The Software* is designed to provide foundation services.  The *Customer* is encouraged to use layering techniques in order to create customized packages and modules for internal use.  *Provider* here-by notifies *Customer* that not using *Provider* recommended layering techniques might result in additional complications during software updates.  
@@ -258,7 +258,7 @@ Forking of *The Software* in order to make customizations violates the extensibi
 Software* repository in order to make customizations or modifications, *Provider* will no longer be able to perform its duties to maintain and update *The Software*.  The *Customer* agrees and acknowledges that it takes all risk for non-compatibility of Updates with the modified Software and *Provider* has no obligation to provide Software Support services for any software in a repository forked from *The Software* by the *Customer*.  Instead of forking *The Software* in order to make customizations, *Customers* should be utilizing pre-defined hooks, inheritance, and overloading techniques.  If a pre-defined hook is not available, *Customer* should request that a hook be added that would allow such customization. 
 
 #### 5.5.4 Customizations Updates
-*Provider* reserves the right to modify *The Software* as they see fit.  *Provider* will make a best effort so as to make modifications in a way that will have minimal impact on *Customer*.  *The Software* is under version control in order to allow *Customer* to control the instant in time they wish to absorb updates.  It is the resposiblity of *Customer* to utilize proper version control techniques to control the scope of updates taken in by thier software deployment systems and services. 
+*Provider* reserves the right to modify *The Software* as they see fit.  *Provider* will make a best effort so as to make modifications in a way that will have minimal impact on *Customer*.  *The Software* is under version control in order to allow *Customer* to control the instant in time they wish to absorb updates.  It is the resposiblity of *Customer* to utilize proper version control techniques to control the scope of updates taken in by their software deployment systems and services. 
 
 #### 5.5.5 Performance of Customizations
 *Provider* is not responsible for the maintenance or upkeep of any *Customer* customizations under this License.  Any terms associated with the additon of or maintenance and upkeep of *Customer* customizations by *Provider* must be establish under a seperate agreement such as a *Statement of Work* on a services contract. 
@@ -269,7 +269,7 @@ Software* repository in order to make customizations or modifications, *Provider
 Starting on the Effective Date, or any later date that may be specified in writing for any specific Services, and continuing during the Subscription Term, *Provider* shall perform the Services in accordance with an Order Form.
 
 #### 5.6.2 Support Services
-During the Subscription Term, *Provider* shall continuously maintain the Software which includes, providing the following Support Services to *Customer* and its Authorized Users, and providing all Updates, bug fixes, enhancements, new releases, new versions and other improvements to *The Software* that *Provider* provides to other similarly-situated customers.
+During the Subscription Term, *Provider* shall continuously maintain the Software which includes, providing Support Services to *Customer* and its Authorized Users, and providing all Updates, bug fixes, enhancements, new releases, new versions and other improvements to *The Software* that *Provider* provides to other similarly-situated customers.
 
 #### 5.6.3 Updates
 *Customer* acknowledges that *The Software* may evolve over time and *Provider* retains the right to modify, update and/or upgrade *The Software* during the *License* term ("Update"). In the event of such an Update, *Customer’s* payment obligations will remain unchanged for the duration of the then existing Subscription Term. Other than Updates, *Provider* may release features or modules to which additional Fees may apply. If such an Update would have a material adverse effect on the operation of *The Software* or the compatibility with *Customer’s* business or regulatory requirements, including, without limitation, hardware, software or browser configurations, then *Customer* may, in its sole discretion, reject such Updates, provided that such rejection may impair the ability of *Provider* to provide Support Services, and may affect compatibility with future Updates. Without limiting the foregoing, with respect to each major Update or change, *Provider* may, on terms to be agreed, provide such Services as requested by *Customer* to assist in any installation and integration of the Update.
@@ -281,7 +281,7 @@ During the Subscription Term, Provider shall continuously maintain the Software 
 *Provider* shall provide Professional Services in relation to *The Software* as requested by *Customer* from time to time on terms mutually agreed in writing by the Parties. Professional Services must be as specified in an *Order Form* and SOW. If the scope of the Professional Services changes from what was originally ordered, then the Parties will enter into a change order to document the modified scope.
 
 #### 5.6.6 Maintenance of Dependencies
-*Customer* acknowledges that *The Software* is not a stand-alone product and that *The Software* includes external software dependencies that are not maintained by *Provider*.  *Provider* utilizes version control techniques to manage versions of incoming external dependant software and to lock dependencies to specific compatible versions.  *Customer* acknoledges that *Provider* is not responsible for breakages or downtime due to software dependencies not under *Provider* control and that *Customer* will have use similar version locking techniques to ensure compatible versions of third party software are used with *The Software*.
+*Customer* acknowledges that *The Software* is not a stand-alone product and that *The Software* includes external software dependencies that are not maintained by *Provider*.  *Provider* utilizes version control techniques to manage versions of incoming external dependent software and to lock dependencies to specific compatible versions.  *Customer* acknowledges that *Provider* is not responsible for breakages or downtime due to software dependencies not under *Provider* control and that *Customer* will have use similar version locking techniques to ensure compatible versions of third party software are used with *The Software*.
 
 ### 5.7 Provider Personnel
 
@@ -306,7 +306,7 @@ Customer will only be obligated to reimburse the actual, reasonable, and documen
 Fees are due upon the date indicated in an invoice. *Customer* shall pay Fees when due by the payment method instructed by *Provider*. Late payments that are not disputed in good faith shall bear interest at the rate of 1.5% per month, or the highest rate allowable under applicable law, if less. *Customer* will be responsible for reimbursing *Provider* for the cost of collection, including attorneys’ fees, incurred by *Provider* in the collection of undisputed overdue amounts.
 
 #### 5.8.5 Taxes
-All Fees exclude taxes. *Customer* shall be responsible for all sales, service, value-added, use, excise, consumption and any other taxes, duties and charges of any kind, if any, imposed by any governmental entity on any amounts payable by *Customer* under any *Order Form*, other than any taxes imposed on, or with respect to, *Provider*’s income, revenues, gross receipts, Personnel, real or personal property or other assets. The Parties shall reasonably cooperate to more accurately determine each *Party’s* tax liability in connection with each *Order Form* and to minimize such liability to the extent legally permissible.
+All Fees exclude taxes. *Customer* shall be responsible for all sales, service, value-added, use, excise, consumption and any other taxes, duties and charges of any kind, if any, imposed by any governmental entity on any amounts payable by *Customer* under any *Order Form*, other than any taxes imposed on, or with respect to, *Provider*’s income, revenues, gross receipts, Personnel, real or personal property or other assets. The Parties shall reasonably cooperate to more accurately determine each *Party’s* tax liability in connection with each *Order Form* and to minimize such liability to the extent legally permissible.  If *Customer* is required to withhold any taxes, then the invoice amount shall be deemed increased so that after such withholding the amount payable to *Provider* shall equal the original amount invoiced.
 
 #### 5.8.6 Supporting Records
 *Provider* shall maintain complete and accurate records of and supporting documentation for all Fees billable to and payments made by *Customer* hereunder. *Provider* will provide *Customer* with documentation and other information with respect to each invoice as may be reasonably requested by *Customer* to verify accuracy and compliance with *This License* and each Order Form.
@@ -317,7 +317,7 @@ All Fees exclude taxes. *Customer* shall be responsible for all sales, service, 
 #### 5.9.1 Confidentiality
 Each Party agrees that it will use the Confidential Information of the other party solely in accordance with the provisions of *This License* and it will not disclose, or permit to be disclosed, the same directly or indirectly, to any third party without the other party’s prior written consent, except as otherwise expressly permitted hereunder. However, either party may disclose Confidential Information (a) to its employees, officers, directors, attorneys, auditors, financial advisors and other representatives who have a need to know and are legally bound to keep such information confidential by confidentiality obligations consistent with those of this License; and (b) as required by law (in which case the receiving party will provide the disclosing party with prior written notification thereof, will provide the disclosing party with the opportunity to contest such disclosure, and will use its reasonable efforts to minimize such disclosure to the extent permitted by applicable law). Both *Parties* agree that the terms of *This License* are public.
 
-*Customer* may request that specific terms of an *Order Form* remain confidential.  If both *Provider* and *Customer* agree that specific terms of an *Order Form* are considered confidential, then it is agreed that Neither party will disclose the specified *Confidential Terms* of agreement to any third party, except that either party may confidentially disclose such terms to actual or potential lenders, investors or acquirers. Each party agrees to exercise due care in protecting the specified *Confidential Terms* from unauthorized use and disclosure. In the event of actual or threatened breach of the provisions of this Section, the non-breaching party will be entitled to seek immediate injunctive and other equitable relief, without waiving any other rights or remedies available to it. Each party will promptly notify the other in writing if it becomes aware of any violations of the confidentiality obligations set forth in the *Order Form*.
+*Customer* may request that specific terms of an *Order Form* remain confidential.  If both *Provider* and *Customer* agree that specific terms of an *Order Form* are considered confidential, then it is agreed that neither party will disclose the specified *Confidential Terms* of agreement to any third party, except that either party may confidentially disclose such terms to actual or potential lenders, investors or acquirers. Each party agrees to exercise due care in protecting the specified *Confidential Terms* from unauthorized use and disclosure. In the event of actual or threatened breach of the provisions of this Section, the non-breaching party will be entitled to seek immediate injunctive and other equitable relief, without waiving any other rights or remedies available to it. Each party will promptly notify the other in writing if it becomes aware of any violations of the confidentiality obligations set forth in the *Order Form*.
 
 #### 5.9.2 Feedback
 *Customer* may from time to time provide *Provider* suggestions or comments for enhancements or improvements, new features or functionality or other feedback with respect to the Software. *Provider* will have full discretion to determine whether or not to proceed with the development of any requested enhancements, new features or functionality. *Provider* will have the full, unencumbered right, without any obligation to compensate or reimburse *Customer*, to use, incorporate and otherwise fully exercise and exploit any such feedback in connection with its products and services.
@@ -391,11 +391,11 @@ EXCEPT AS EXPRESSLY SET FORTH HEREIN, PROVIDER DISCLAIMS ANY AND ALL WARRANTIES,
 
 ### 5.13 Indemnification
 
-#### 5.12.1 Indemnification by the Provider
+#### 5.13.1 Indemnification by the Provider
 *Provider* will indemnify, defend, and hold harmless Customer, Customer’s Authorized Users, and their respective officers, directors, employees, agents and representatives (collectively, “Customer Indemnitees”), from all liabilities and damages
 awarded against *Customer* Indemnities arising from a Claim that the Software, Service, or Customer-Owned Developed Materials infringe the IP Rights of a third party.
 
-#### 5.12.2 Infringement Claims
+#### 5.13.2 Infringement Claims
 If any Software, Service, or Customer-Owned Developed Materials becomes, or in *Provider*’s or Customer’s reasonable opinion is likely to become, the subject of an infringement or misappropriation Claim (each such product, service, or material, an
 “Infringing Item”), *Provider* will at its expense, in addition to indemnifying Customer Indemnitees as provided in this Section ??? and any other obligations under *This License* or the applicable Order Form:
 
@@ -403,87 +403,87 @@ a. Promptly secure the right to continue using the Infringing Item; or
 b. If this cannot be accomplished with commercially reasonable efforts, then replace or modify the Infringing Item to make it non-infringing or without misappropriation; provided, however, that any such replacement or modification may not degrade the performance or quality of the Infringing Item or disrupt Customer’s business operations, or
 c. If neither of the foregoing can be accomplished by *Provider* with commercially reasonable efforts, then *Provider* may discontinue provision of the Infringing Item or require *Customer* to discontinue use of the Infringing Item, in which case *Provider* will refund all of the prepaid unused Fees paid by *Customer* for such Infringing Item.
 
-#### 5.12.3 Indemnification Claim Procedures
-*Customer* will give *Provider* prompt written notice of any Claim by a third party for which indemnification is sought under this Section ??? . Failure to give notice will not diminish *Provider*’s obligation under this Section ??? if *Provider* has or receives knowledge of the existence of such Claim by any other means or if the failure does not materially prejudice the *Provider’s* ability to defend the Claim. *Provider* may select legal counsel to represent *Customer* and otherwise control the defense of such Claim by a third party. If *Provider* elects to control the defense of such Claim by a third party, *Customer* may participate in the defense at its own expense. *Provider* may not, without the prior written consent of Customer:
+#### 5.13.3 Indemnification Claim Procedures
+*Customer* will give *Provider* prompt written notice of any Claim by a third party for which indemnification is sought under this Section 5.13. Failure to give notice will not diminish *Provider*’s obligation under this Section 5.13 if *Provider* has or receives knowledge of the existence of such Claim by any other means or if the failure does not materially prejudice the *Provider’s* ability to defend the Claim. *Provider* may select legal counsel to represent *Customer* and otherwise control the defense of such Claim by a third party. If *Provider* elects to control the defense of such Claim by a third party, *Customer* may participate in the defense at its own expense. *Provider* may not, without the prior written consent of Customer:
 
 a. Consent to the entry of any judgment or enter into any settlement that provides for injunctive or other non-monetary relief affecting any *Customer* Indemnitee; or
 b. Consent to the entry of any judgment or enter into any settlement unless such judgment or settlement provides for an unconditional and full release of the *Customer* Indemnitees and does not diminish any of Customer’s rights under *This License* or any *Order Form* or result in additional Fees or charges to Customer.
 
-#### 5.12.4 Exclusions
-*Provider* will have no liability or obligation with respect to any Claim to the extent such Claim results from (A) compliance with designs, guidelines, plans or specifications provided by Customer, or the use or inclusion of *Customer* Data; (B) use of the Software, Service, or Customer-Owned Developed Materials by *Customer* not in accordance with *This License* or in violation of any applicable Law; (C) modification of the Software, Service, or Customer-Owned Developed Materials by any party other than *Provider* without the *Provider’s* express consent; (D) *Customer* Confidential Information or (E) the combination, operation or use of the Software, Service, or Customer-Owned Developed Materials with other applications, portions of applications, product(s) or services in a manner not reasonably required where the Software, Service, or Customer-Owned Developed Materials would not by itself be infringing. This Section ??? states the *Provider’s* sole and exclusive liability and obligation, and *Customer’s* exclusive remedy, for any claim of any nature related to infringement or misappropriation of intellectual property.
+#### 5.13.4 Exclusions
+*Provider* will have no liability or obligation with respect to any Claim to the extent such Claim results from (A) compliance with designs, guidelines, plans or specifications provided by Customer, or the use or inclusion of *Customer* Data; (B) use of the Software, Service, or Customer-Owned Developed Materials by *Customer* not in accordance with *This License* or in violation of any applicable Law; (C) modification of the Software, Service, or Customer-Owned Developed Materials by any party other than *Provider* without the *Provider’s* express consent; (D) *Customer* Confidential Information or (E) Third Party Materials; or (F) the combination, operation or use of the Software, Service, or Customer-Owned Developed Materials with other applications, portions of applications, product(s) or services in a manner not reasonably required where the Software, Service, or Customer-Owned Developed Materials would not by itself be infringing. This Section 5.12 states the *Provider’s* sole and exclusive liability and obligation, and *Customer’s* exclusive remedy, for any claim of any nature related to infringement or misappropriation of intellectual property.
 
-### 5.13 Liability
+### 6 Liability
 
-#### 5.13.1 Disclaimer
+#### 6.1 Disclaimer
 *Provider* will not be liable to *Customer* for any consequential, incidental, indirect or punitive damages, or any loss of revenue, profit, business, savings or goodwill, regardless of the form of action or the theory of recovery, even if it has been advised of the possibility of such damages.
 
-#### 5.13.2 Liability Cap
+#### 6.2 Liability Cap
 The *Provider’s* liability to *Customer* in connection with *This License* or any Order Form, whether in contract or in tort (including for breach of warranty, negligence, and strict liability in tort) shall not exceed an amount equal to the Fees paid to *Provider* pursuant to the applicable *Order Form* during the six (6) months preceding the month in which the initial event giving rise to liability occurred.
 
-## 6. Additional Definitions
+## 7. Additional Definitions
 
-### 6.1 Affiliate
-Means means with respect to an entity, any other entity or person controlling, controlled by, or under common control with, such entity. For purposes of this definition, "control"; means possessing, directly or indirectly, the power to direct or cause the direction of the management, policies or operations of an entity, whether through ownership of voting securities, by contract or otherwise.
+### 7.1 Affiliate
+Means with respect to an entity, any other entity or person controlling, controlled by, or under common control with, such entity. For purposes of this definition, "control"; means possessing, directly or indirectly, the power to direct or cause the direction of the management, policies or operations of an entity, whether through ownership of voting securities, by contract or otherwise.
 
-### 6.2 Artificial Intelligence
+### 7.2 Artificial Intelligence
 Means any machine, structure mapping engine, or information processing system whose purpose or capabilities include analyzing large amounts of data and one or more of analogical matching, machine or reinforcement learning, and decision-making without human assistance or intervention.
 
-### 6.3 Authorized Users
+### 7.3 Authorized Users
 Means the persons authorized by *Customer* or a *Customer* Affiliate to Use Software product.
 
-### 6.4 Claim
+### 7.4 Claim
 Means any demand, or any civil, criminal, administrative or investigative claim, action or proceeding (including arbitration) asserted, commenced, or threatened against an entity or person by a third party. For purposes of this definition, an employee or agent of either Party is a third party.
 
-### 6.5 Code
+### 7.5 Code
 Means computer programming code contained in *The Software*. If not otherwise specified, “Code” shall not include Source Code but will include all maintenance modifications and Updates licensed by Customer.
 
-### 6.6 Commercially Reasonable Efforts
+### 7.6 Commercially Reasonable Efforts
 Means taking all such steps and performing in such a manner as a well-managed company would undertake where it was acting in a diligent, prudent, and reasonable manner to quickly achieve a particular desired result for its own benefit.
 
-### 6.7 Confidential Information
+### 7.7 Confidential Information
 Means any information or data disclosed by either party that is marked or otherwise designated as confidential or proprietary or that should otherwise be reasonably understood to be confidential in light of the nature of the information and the circumstances surrounding disclosure. However, “Confidential Information” will not include any information which (a) is in the public domain through no fault of receiving party; (b) was properly known to receiving party, without restriction, prior to disclosure by the disclosing party; (c) was properly disclosed to receiving party, without restriction, by another person with the legal authority to do so; or (d) is independently developed by the receiving party without use of or reference to the disclosing party’s Confidential Information. *Customer* Data is the Confidential Information of Customer. *The Software* is the Confidential Information of *Provider*.
 
-### 6.8 Customer Data
+### 7.8 Customer Data
 Means any and all information, data, materials, works or content regarding Customer, its Affiliates or any Authorized User that are (a) uploaded, submitted, posted, transferred, transmitted or otherwise provided or made available by or on behalf of Customer, an Authorized User, or any customer or user for processing through *The Software* or (b) otherwise generated or received by or on behalf of *Provider* in the course of performance of Services under any Order Form. All modifications, adaptations, compilations, translations and other derivative works of any of the foregoing are themselves also *Customer* Data. *Customer* Data includes all personal data (and similar terms as defined under applicable data privacy laws) and all information relating to Personnel of *Customer* or Customer’s Affiliates.
 
-### 6.9 Customer Modifications
+### 7.9 Customer Modifications
 Modifications to *The Software* being provided by *Provider*.
 
-### 6.10 Documentation
+### 7.10 Documentation
 Means all generally available documentation relating to the Software, including all user manuals, operating manuals and other instructions, specifications, documents and materials, in any form or media, that describe any component, feature, requirement or other aspect of *The Software*, including any functionality, testing, operation or use thereof.
 
-### 6.11 Effective Date
-means the date that the "Order Form" is executed by the *Customer* and *Provider*.
+### 7.11 Effective Date
+Means the date that the "Order Form" is executed by the *Customer* and *Provider*.
 
-### 6.12 Fees
+### 7.12 Fees
 Means collectively, and as applicable, Fees for *The Software* and Services, as set forth in the applicable Order Form(s).
 
-### 6.13 Force Majeure Event
+### 7.13 Force Majeure Event
 Means an event beyond the reasonable control of a Party that delays or prevents the Party from performing its obligations under *This License* or an Order Form, provided that: (a) the nonperforming Party is without fault in causing or failing to prevent the event; and (b) the event or its effects cannot be circumvented with Commercially Reasonable Efforts, alternative sources, workaround plans, or other means.
 
-### 6.14 IP Rights
+### 7.14 IP Rights
 Means all: (a) patents, patent applications, patent disclosures and inventions (whether patentable or not), (b) trademarks, service marks, trade dress, trade names, logos, corporate names, Internet domain names, and registrations and applications for the registration for any of them, together with all goodwill associated with any of them, (c) copyrights and copyrightable works (including computer programs and mask works) and registrations and applications for registration, (d) trade secrets, know-how, and other confidential or proprietary information, (e) waivable or assignable rights of publicity, waivable or assignable moral rights, (f) unregistered and registered design rights and any applications for registration and (g) database rights and all other forms of intellectual property, such as data.
 
-### 6.15 Law(s)
+### 7.15 Law(s)
 Means any statute, regulation, ordinance, rule, order, decree, or governmental requirement enacted, promulgated, or imposed by any governmental authority at any level (e.g., municipal, county, province, state or national).
 
-### 6.16 Malware
+### 7.16 Malware
 Means program code or programming instruction(s) or set(s) of instructions intentionally designed to disrupt, harm, interfere with or otherwise adversely affect computer programs, data files or operations, or other code typically described as a virus, Trojan horse, worm, back door or other type of harmful code.
 
-### 6.17 Object Code
+### 7.17 Object Code
 Code in machine readable form generated by compilation of the Source Code and contained in a medium that permits it to be loaded into and operated on
 the specified equipment.
 
-### 6.18 Open Source Software
+### 7.18 Open Source Software
 Denoting software for which the original source code is made freely available and may be redistributed and modified.  
 
-### 6.19 Personnel
+### 7.19 Personnel
 Means any employee, agents, consultants, or contractors of *Provider* or *Customer* or *Customer's Affiliates*, respectively.
 
-### 6.20 Source Code
+### 7.20 Source Code
 Means Code in programming languages, including all comments and procedural code and all related development documents (e.g., flow charts, schematics, statements of principles of operations, end-user manuals, architecture standards, and any other specifications that are used to create or that comprise the Code).
 
-### 6.21 Specifications
+### 7.21 Specifications
 Means the specifications for the Software and, to the extent consistent with and not limiting of the foregoing, the Documentation
 
 
